@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Giancarlos Cardenas Galarza&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hola,+mi+nombre+es+Giancarlos+Cardenas+Galarza;Soy+Data+Analytics+Programador+Python;Tengo+6+años+de+experiencia;Soy+de+Perú;Sé+Bienvenido!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hola,+mi+nombre+es+Giancarlos+Cardenas+Galarza;Soy+Data+Analytics+Programador+Python;Tengo+10+años+de+experiencia;Soy+de+Perú;Sé+Bienvenido!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CardenasGalarza&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Giancarlos Cardenas Galarza github stats" /> 
