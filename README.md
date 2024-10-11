@@ -11,7 +11,8 @@
 </div>
 
 <!-- Gráfica de contribuciones -->
-![Contribution](https://activity-graph.herokuapp.com/graph?username=CardenasGalarza&theme=gotham&hide_border=true&area=true)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=CardenasGalarza&bg_color=0d1117&color=00bfbf&line=00bfbf&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <!-- Trofeos -->
 <p align="center">
